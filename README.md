@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brlocky
 - 👀 I’m interested in brokers
-- 🌱 I’m currently python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on tradinglounge
 - 📫 How to reach me ...
